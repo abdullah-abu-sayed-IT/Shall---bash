@@ -1,3 +1,3 @@
-# Shall---bash
+# Shell---bash
 Automation &amp; my ideas 
 holhe
